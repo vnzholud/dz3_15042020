@@ -29,7 +29,6 @@ public class Main {
            ind = sc.nextInt();
        }
 
-
         while (ind == 1) {
 
 
